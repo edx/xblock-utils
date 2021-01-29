@@ -40,6 +40,7 @@ ddt==1.4.1
 django-pyfs==3.0
     # via -r requirements/test.in
     # via
+    #   -c https://raw.githubusercontent.com/edx/edx-lint/master/edx_lint/files/common_constraints.txt
     #   code-annotations
     #   django-pyfs
     #   edx-lint
